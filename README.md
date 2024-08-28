@@ -60,6 +60,10 @@
 <br>
 <br>
 
+정리 링크: https://velog.io/@dregun1/posts
+
+<br>
+
 ![footer](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=auto&height=110&section=footer)
 
 
